@@ -1,0 +1,51 @@
+<spawnabletypes>
+    <type name="SRP_BigUtilityRackKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_SmallUtilityRackKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_UtilityRackKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_WoodReserveKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_WoodpileKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_LockerGrayKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_LockerBlueKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_WeaponCrateKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_LogpileKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_WardrobeKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_GarbageContainerKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_SmallCupboardKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_MetalGarbageBinKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_PlasticGarbageBinKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_ToolTrolleyKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+    <type name="SRP_MaterialStorageCrateKit">
+        <damage max="0.0" min="0.0"/>
+    </type>
+</spawnabletypes>
+    
