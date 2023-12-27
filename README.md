@@ -11,11 +11,11 @@ And there are two ways how to add these configs to your DayZ server:
 Bad way, preferable for masochists: 
 - Take some pills for a mental disorder;
 - Manually patch your `types.xml` and `cfgspawnabletypes.xml` with the content of this repo;
-- Pray all gods to keep your server up and running.
-Do not forget to wash your hands after that.
+- Pray all gods to keep your server up and running;
+- Do not forget to wash your hands after that.
 
 A good way for those who deserve some love and happiness: 
-- include addon settings using `CfgEconomyCore.xml` file 
+- include addon settings using `CfgEconomyCore.xml` file;
 - have a wonderful day, filled with joy, laughter, and love UwU 
 
 General info about CfgEconomyCore and how it works: 
