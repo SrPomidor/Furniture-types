@@ -22,6 +22,7 @@ General info about CfgEconomyCore and how it works:
 https://community.bistudio.com/wiki/DayZ:Central_Economy_mission_files_modding
 
 So here we go:
+
 0. Ensure you are working within your mission folder.
 	For this example, it is `dayzOffline.chernarusplus` folder, but your mission folder may be different.
 	
